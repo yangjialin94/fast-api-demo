@@ -2,5 +2,5 @@
 Demo app for how to use Fast API
 
 ## How to run
-% cd api
-% uvicorn main:app --reload
+1. % cd api
+2. % uvicorn main:app --reload
